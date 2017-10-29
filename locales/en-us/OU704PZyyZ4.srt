@@ -16,7 +16,7 @@ there's an opportunity to factor out the similar aspects of it
 
 5
 00:00:14,920 --> 00:00:16,600
-in to some reusable library code.
+into some reusable library code.
 
 6
 00:00:16,600 --> 00:00:19,680
